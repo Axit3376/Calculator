@@ -18,6 +18,7 @@ A simple, responsive calculator built using **HTML**, **CSS**, and **JavaScript*
 
 ## 📸 Demo
 
-![image](https://github.com/user-attachments/assets/d3af9649-ee45-4490-aac4-cfd650c135af)
-![image](https://github.com/user-attachments/assets/4ad53b0f-6ff5-4eb6-9cc3-ab3280a2f3ed)
-![image](https://github.com/user-attachments/assets/4f0fa5c8-f533-4bc9-b312-40f9c76c99d0)
+![image](https://github.com/user-attachments/assets/a36acabd-103b-4556-8ec5-b3d0f7932d70)
+![image](https://github.com/user-attachments/assets/1d3daf17-8afc-40ee-9c52-d47800abba2d)
+![Uploading image.png…]()
+
